@@ -1,7 +1,5 @@
 # Automata Theory
 
-### Roll Number: 2019101017
-
 ## nfa.py: REGEX to NFA
 * REGEX format:
     * '+' --> Union
